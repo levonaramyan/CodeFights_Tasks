@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addBorder", "addBorder\addB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "digitRootSort", "digitRootSort\digitRootSort.csproj", "{2A10DD45-3598-4868-B35F-24CBFFD8BADA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "areSimilar", "areSimilar\areSimilar.csproj", "{BBEFCA6D-54F9-4455-9E20-C7DBABC5AE0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{2A10DD45-3598-4868-B35F-24CBFFD8BADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A10DD45-3598-4868-B35F-24CBFFD8BADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A10DD45-3598-4868-B35F-24CBFFD8BADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBEFCA6D-54F9-4455-9E20-C7DBABC5AE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEFCA6D-54F9-4455-9E20-C7DBABC5AE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEFCA6D-54F9-4455-9E20-C7DBABC5AE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEFCA6D-54F9-4455-9E20-C7DBABC5AE0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
