@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zigzag", "zigzag\zigzag.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alternatingSums", "alternatingSums\alternatingSums.csproj", "{56A82A7C-1236-4EF1-AA9F-790C144F1273}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addBorder", "addBorder\addBorder.csproj", "{38D53353-D8E5-4E3E-A71C-44698DFC3489}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{56A82A7C-1236-4EF1-AA9F-790C144F1273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56A82A7C-1236-4EF1-AA9F-790C144F1273}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56A82A7C-1236-4EF1-AA9F-790C144F1273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D53353-D8E5-4E3E-A71C-44698DFC3489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D53353-D8E5-4E3E-A71C-44698DFC3489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D53353-D8E5-4E3E-A71C-44698DFC3489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D53353-D8E5-4E3E-A71C-44698DFC3489}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
