@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindromeRearranging", "pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "areEquallyStrong", "areEquallyStrong\areEquallyStrong.csproj", "{5CCB4410-BF10-4809-8A1D-17713D88A16C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrayMaximalAdjacentDifference", "arrayMaximalAdjacentDifference\arrayMaximalAdjacentDifference.csproj", "{5CB82248-4022-43D1-92FC-9D3AA6BAC354}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{5CCB4410-BF10-4809-8A1D-17713D88A16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CCB4410-BF10-4809-8A1D-17713D88A16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CCB4410-BF10-4809-8A1D-17713D88A16C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB82248-4022-43D1-92FC-9D3AA6BAC354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB82248-4022-43D1-92FC-9D3AA6BAC354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB82248-4022-43D1-92FC-9D3AA6BAC354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB82248-4022-43D1-92FC-9D3AA6BAC354}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
