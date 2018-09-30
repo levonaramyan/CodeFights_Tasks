@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrayReplace", "arrayReplac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evenDigitsOnly", "evenDigitsOnly\evenDigitsOnly.csproj", "{6BCDC6CE-10C7-4C96-AE99-AAFBE37DB1AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variableName", "variableName\variableName.csproj", "{77A2D68C-6F59-4DA8-A432-B85DE0467461}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{6BCDC6CE-10C7-4C96-AE99-AAFBE37DB1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BCDC6CE-10C7-4C96-AE99-AAFBE37DB1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BCDC6CE-10C7-4C96-AE99-AAFBE37DB1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A2D68C-6F59-4DA8-A432-B85DE0467461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A2D68C-6F59-4DA8-A432-B85DE0467461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A2D68C-6F59-4DA8-A432-B85DE0467461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A2D68C-6F59-4DA8-A432-B85DE0467461}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
