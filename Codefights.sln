@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isIPv4Address", "isIPv4Addr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "avoidObstacles", "avoidObstacles\avoidObstacles.csproj", "{0F06A184-0764-41C8-9AB1-41CA9B34F1C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "constructArray", "constructArray\constructArray.csproj", "{A7432A39-677A-4D34-95A2-F1798201300E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{0F06A184-0764-41C8-9AB1-41CA9B34F1C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F06A184-0764-41C8-9AB1-41CA9B34F1C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F06A184-0764-41C8-9AB1-41CA9B34F1C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7432A39-677A-4D34-95A2-F1798201300E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7432A39-677A-4D34-95A2-F1798201300E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7432A39-677A-4D34-95A2-F1798201300E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7432A39-677A-4D34-95A2-F1798201300E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
