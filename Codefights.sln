@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minesweeper", "minesweeper\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrayReplace", "arrayReplace\arrayReplace.csproj", "{A5E50B2D-1F13-4301-B4E2-FB8B0E867899}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evenDigitsOnly", "evenDigitsOnly\evenDigitsOnly.csproj", "{6BCDC6CE-10C7-4C96-AE99-AAFBE37DB1AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{A5E50B2D-1F13-4301-B4E2-FB8B0E867899}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5E50B2D-1F13-4301-B4E2-FB8B0E867899}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5E50B2D-1F13-4301-B4E2-FB8B0E867899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BCDC6CE-10C7-4C96-AE99-AAFBE37DB1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCDC6CE-10C7-4C96-AE99-AAFBE37DB1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCDC6CE-10C7-4C96-AE99-AAFBE37DB1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCDC6CE-10C7-4C96-AE99-AAFBE37DB1AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
