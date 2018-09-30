@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "constructSubmatrix", "const
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "circleOfNumbers", "circleOfNumbers\circleOfNumbers.csproj", "{904CD0B2-C752-4C2C-90B6-1275997C64F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "depositProfit", "depositProfit\depositProfit.csproj", "{F42A6041-CBE3-4358-88C8-76F85EC5E80B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{904CD0B2-C752-4C2C-90B6-1275997C64F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{904CD0B2-C752-4C2C-90B6-1275997C64F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{904CD0B2-C752-4C2C-90B6-1275997C64F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F42A6041-CBE3-4358-88C8-76F85EC5E80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42A6041-CBE3-4358-88C8-76F85EC5E80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42A6041-CBE3-4358-88C8-76F85EC5E80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42A6041-CBE3-4358-88C8-76F85EC5E80B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
