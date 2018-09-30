@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boxBlur", "boxBlur\boxBlur.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minesweeper", "minesweeper\minesweeper.csproj", "{00E98E84-AFE3-4094-8DF9-9F50DB8D76CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrayReplace", "arrayReplace\arrayReplace.csproj", "{A5E50B2D-1F13-4301-B4E2-FB8B0E867899}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{00E98E84-AFE3-4094-8DF9-9F50DB8D76CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00E98E84-AFE3-4094-8DF9-9F50DB8D76CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00E98E84-AFE3-4094-8DF9-9F50DB8D76CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5E50B2D-1F13-4301-B4E2-FB8B0E867899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E50B2D-1F13-4301-B4E2-FB8B0E867899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E50B2D-1F13-4301-B4E2-FB8B0E867899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E50B2D-1F13-4301-B4E2-FB8B0E867899}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
