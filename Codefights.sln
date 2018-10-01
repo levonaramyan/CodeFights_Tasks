@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "absoluteValuesSumMinimizati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "extractEachKth", "extractEachKth\extractEachKth.csproj", "{74519480-3670-45FA-B4C4-5B36ACA39C29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firstDigit", "firstDigit\firstDigit.csproj", "{B2806BB3-02B8-4711-866E-0E4E14177A92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{74519480-3670-45FA-B4C4-5B36ACA39C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74519480-3670-45FA-B4C4-5B36ACA39C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74519480-3670-45FA-B4C4-5B36ACA39C29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2806BB3-02B8-4711-866E-0E4E14177A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2806BB3-02B8-4711-866E-0E4E14177A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2806BB3-02B8-4711-866E-0E4E14177A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2806BB3-02B8-4711-866E-0E4E14177A92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
