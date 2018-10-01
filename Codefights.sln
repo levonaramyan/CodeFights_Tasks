@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "extractEachKth", "extractEa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firstDigit", "firstDigit\firstDigit.csproj", "{B2806BB3-02B8-4711-866E-0E4E14177A92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "differentSymbolsNaive", "differentSymbolsNaive\differentSymbolsNaive.csproj", "{969009F7-58AE-485D-8C49-A5DE85DB9EB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{B2806BB3-02B8-4711-866E-0E4E14177A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2806BB3-02B8-4711-866E-0E4E14177A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2806BB3-02B8-4711-866E-0E4E14177A92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{969009F7-58AE-485D-8C49-A5DE85DB9EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969009F7-58AE-485D-8C49-A5DE85DB9EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969009F7-58AE-485D-8C49-A5DE85DB9EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969009F7-58AE-485D-8C49-A5DE85DB9EB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
