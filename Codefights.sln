@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrayMaxConsecutiveSum", "a
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_schoolSupplies", "schoolSupplies\Challenge_schoolSupplies.csproj", "{ABD0613B-935B-4A93-A7F6-950B083964EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Growing Plant", "Growing Plant\Growing Plant.csproj", "{15166062-3C96-4D4E-8462-75CE01A58601}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{ABD0613B-935B-4A93-A7F6-950B083964EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABD0613B-935B-4A93-A7F6-950B083964EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABD0613B-935B-4A93-A7F6-950B083964EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15166062-3C96-4D4E-8462-75CE01A58601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15166062-3C96-4D4E-8462-75CE01A58601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15166062-3C96-4D4E-8462-75CE01A58601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15166062-3C96-4D4E-8462-75CE01A58601}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
