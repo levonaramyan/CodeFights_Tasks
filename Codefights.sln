@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "depositProfit", "depositPro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "absoluteValuesSumMinimization", "absoluteValuesSumMinimization\absoluteValuesSumMinimization.csproj", "{FAE0E52A-48AB-468F-BB6F-EB60271FA420}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "extractEachKth", "extractEachKth\extractEachKth.csproj", "{74519480-3670-45FA-B4C4-5B36ACA39C29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{FAE0E52A-48AB-468F-BB6F-EB60271FA420}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAE0E52A-48AB-468F-BB6F-EB60271FA420}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAE0E52A-48AB-468F-BB6F-EB60271FA420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74519480-3670-45FA-B4C4-5B36ACA39C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74519480-3670-45FA-B4C4-5B36ACA39C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74519480-3670-45FA-B4C4-5B36ACA39C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74519480-3670-45FA-B4C4-5B36ACA39C29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
