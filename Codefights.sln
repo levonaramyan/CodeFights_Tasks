@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_schoolSupplies", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Growing Plant", "Growing Plant\Growing Plant.csproj", "{15166062-3C96-4D4E-8462-75CE01A58601}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "knapsackLight", "knapsackLight\knapsackLight.csproj", "{C990A5B5-C127-496F-BE5D-F5A8DC985D99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{15166062-3C96-4D4E-8462-75CE01A58601}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15166062-3C96-4D4E-8462-75CE01A58601}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15166062-3C96-4D4E-8462-75CE01A58601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C990A5B5-C127-496F-BE5D-F5A8DC985D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C990A5B5-C127-496F-BE5D-F5A8DC985D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C990A5B5-C127-496F-BE5D-F5A8DC985D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C990A5B5-C127-496F-BE5D-F5A8DC985D99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
