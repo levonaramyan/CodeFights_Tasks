@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buildPalindrome", "buildPal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "electionsWinners", "electionsWinners\electionsWinners.csproj", "{DE969228-8682-4221-B9F6-B3CA11AFC47C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isMAC48Address", "isMAC48Address\isMAC48Address.csproj", "{65EAF896-1164-4180-8856-A3EE0D867AD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,10 @@ Global
 		{DE969228-8682-4221-B9F6-B3CA11AFC47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE969228-8682-4221-B9F6-B3CA11AFC47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE969228-8682-4221-B9F6-B3CA11AFC47C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65EAF896-1164-4180-8856-A3EE0D867AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EAF896-1164-4180-8856-A3EE0D867AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EAF896-1164-4180-8856-A3EE0D867AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EAF896-1164-4180-8856-A3EE0D867AD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
