@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "findEmailDomain", "findEmai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buildPalindrome", "buildPalindrome\buildPalindrome.csproj", "{35D0DB5A-EB8C-4D97-A540-CA240E505077}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "electionsWinners", "electionsWinners\electionsWinners.csproj", "{DE969228-8682-4221-B9F6-B3CA11AFC47C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +263,10 @@ Global
 		{35D0DB5A-EB8C-4D97-A540-CA240E505077}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35D0DB5A-EB8C-4D97-A540-CA240E505077}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35D0DB5A-EB8C-4D97-A540-CA240E505077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE969228-8682-4221-B9F6-B3CA11AFC47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE969228-8682-4221-B9F6-B3CA11AFC47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE969228-8682-4221-B9F6-B3CA11AFC47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE969228-8682-4221-B9F6-B3CA11AFC47C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
