@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bishopAndPawn", "bishopAndP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isBeautifulString", "isBeautifulString\isBeautifulString.csproj", "{DFEBF762-5B04-4E09-B715-AA8F2A030640}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "findEmailDomain", "findEmailDomain\findEmailDomain.csproj", "{0069BABA-B098-4778-999A-0411FEF30F5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -249,6 +251,10 @@ Global
 		{DFEBF762-5B04-4E09-B715-AA8F2A030640}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFEBF762-5B04-4E09-B715-AA8F2A030640}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFEBF762-5B04-4E09-B715-AA8F2A030640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0069BABA-B098-4778-999A-0411FEF30F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0069BABA-B098-4778-999A-0411FEF30F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0069BABA-B098-4778-999A-0411FEF30F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0069BABA-B098-4778-999A-0411FEF30F5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
