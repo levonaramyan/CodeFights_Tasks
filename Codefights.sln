@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isBeautifulString", "isBeau
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "findEmailDomain", "findEmailDomain\findEmailDomain.csproj", "{0069BABA-B098-4778-999A-0411FEF30F5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buildPalindrome", "buildPalindrome\buildPalindrome.csproj", "{35D0DB5A-EB8C-4D97-A540-CA240E505077}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{0069BABA-B098-4778-999A-0411FEF30F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0069BABA-B098-4778-999A-0411FEF30F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0069BABA-B098-4778-999A-0411FEF30F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D0DB5A-EB8C-4D97-A540-CA240E505077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D0DB5A-EB8C-4D97-A540-CA240E505077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D0DB5A-EB8C-4D97-A540-CA240E505077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D0DB5A-EB8C-4D97-A540-CA240E505077}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

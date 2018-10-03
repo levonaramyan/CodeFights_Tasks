@@ -19,7 +19,7 @@ namespace findEmailDomain
         {
             // Testing and printing the result
             Console.WriteLine(findEmailDomain("bla@bla@yuhuuu.com"));
-            Console.ReadKey();
+            Console.ReadKey();            
         }
 
         static string findEmailDomain(string address)
