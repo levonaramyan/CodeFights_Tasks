@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chessKnight", "chessKnight\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deleteDigit", "deleteDigit\deleteDigit.csproj", "{C16F876B-4241-458F-BF86-8F8AAA3FC1B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longestWord", "longestWord\longestWord.csproj", "{9FD833DF-37C6-45A5-9C0E-B52F5D4806CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,10 @@ Global
 		{C16F876B-4241-458F-BF86-8F8AAA3FC1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C16F876B-4241-458F-BF86-8F8AAA3FC1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C16F876B-4241-458F-BF86-8F8AAA3FC1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FD833DF-37C6-45A5-9C0E-B52F5D4806CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD833DF-37C6-45A5-9C0E-B52F5D4806CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD833DF-37C6-45A5-9C0E-B52F5D4806CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD833DF-37C6-45A5-9C0E-B52F5D4806CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
