@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "differentSquares", "differe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "digitsProduct", "digitsProduct\digitsProduct.csproj", "{4FF84F6E-80DE-48E4-8AB5-74C8237413B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fileNaming", "fileNaming\fileNaming.csproj", "{EA262B2D-76E1-4739-823F-678BA90AF318}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -321,6 +323,10 @@ Global
 		{4FF84F6E-80DE-48E4-8AB5-74C8237413B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FF84F6E-80DE-48E4-8AB5-74C8237413B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FF84F6E-80DE-48E4-8AB5-74C8237413B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA262B2D-76E1-4739-823F-678BA90AF318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA262B2D-76E1-4739-823F-678BA90AF318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA262B2D-76E1-4739-823F-678BA90AF318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA262B2D-76E1-4739-823F-678BA90AF318}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
