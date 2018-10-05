@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longestWord", "longestWord\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "validTime", "validTime\validTime.csproj", "{13B975D6-D4F6-401A-B639-A360B9D7F394}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumUpNumbers", "sumUpNumbers\sumUpNumbers.csproj", "{A9DDE333-D7C9-41D7-A5BC-7CD1CC09CE0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -303,6 +305,10 @@ Global
 		{13B975D6-D4F6-401A-B639-A360B9D7F394}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13B975D6-D4F6-401A-B639-A360B9D7F394}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13B975D6-D4F6-401A-B639-A360B9D7F394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9DDE333-D7C9-41D7-A5BC-7CD1CC09CE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DDE333-D7C9-41D7-A5BC-7CD1CC09CE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DDE333-D7C9-41D7-A5BC-7CD1CC09CE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DDE333-D7C9-41D7-A5BC-7CD1CC09CE0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
