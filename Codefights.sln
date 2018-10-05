@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "validTime", "validTime\vali
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumUpNumbers", "sumUpNumbers\sumUpNumbers.csproj", "{A9DDE333-D7C9-41D7-A5BC-7CD1CC09CE0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "differentSquares", "differentSquares\differentSquares.csproj", "{170F1335-95BD-45B8-9D54-EEDDE43079AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{A9DDE333-D7C9-41D7-A5BC-7CD1CC09CE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9DDE333-D7C9-41D7-A5BC-7CD1CC09CE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9DDE333-D7C9-41D7-A5BC-7CD1CC09CE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{170F1335-95BD-45B8-9D54-EEDDE43079AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170F1335-95BD-45B8-9D54-EEDDE43079AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170F1335-95BD-45B8-9D54-EEDDE43079AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170F1335-95BD-45B8-9D54-EEDDE43079AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
