@@ -109,6 +109,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "digitsProduct", "digitsProd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fileNaming", "fileNaming\fileNaming.csproj", "{EA262B2D-76E1-4739-823F-678BA90AF318}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "messageFromBinaryCode", "messageFromBinaryCode\messageFromBinaryCode.csproj", "{626189A1-892D-4C02-9ED9-5CBB31A39777}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -327,6 +329,10 @@ Global
 		{EA262B2D-76E1-4739-823F-678BA90AF318}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA262B2D-76E1-4739-823F-678BA90AF318}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA262B2D-76E1-4739-823F-678BA90AF318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626189A1-892D-4C02-9ED9-5CBB31A39777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626189A1-892D-4C02-9ED9-5CBB31A39777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626189A1-892D-4C02-9ED9-5CBB31A39777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626189A1-892D-4C02-9ED9-5CBB31A39777}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
