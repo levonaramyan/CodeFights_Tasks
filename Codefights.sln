@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fileNaming", "fileNaming\fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "messageFromBinaryCode", "messageFromBinaryCode\messageFromBinaryCode.csproj", "{626189A1-892D-4C02-9ED9-5CBB31A39777}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spiralNumbers", "spiralNumbers\spiralNumbers.csproj", "{FCD3D4A6-B424-4455-8305-D841C43ACC73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +335,10 @@ Global
 		{626189A1-892D-4C02-9ED9-5CBB31A39777}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{626189A1-892D-4C02-9ED9-5CBB31A39777}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{626189A1-892D-4C02-9ED9-5CBB31A39777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD3D4A6-B424-4455-8305-D841C43ACC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD3D4A6-B424-4455-8305-D841C43ACC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD3D4A6-B424-4455-8305-D841C43ACC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD3D4A6-B424-4455-8305-D841C43ACC73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
