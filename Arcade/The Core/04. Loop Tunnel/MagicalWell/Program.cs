@@ -25,6 +25,7 @@ namespace MagicalWell
             Console.ReadKey();
         }
 
+        // Returns an amount of money you could make with n magic marbles.
         static int magicalWell(int a, int b, int n)
         {
             int sum = 0;
