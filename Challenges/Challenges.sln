@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpingJimmy", "JumpingJimm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquitableMeetup", "EquitableMeetup\EquitableMeetup.csproj", "{60F6CEF0-577F-4FF1-9250-245FD6E8BA94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScariestMask", "ScariestMask\ScariestMask.csproj", "{38A18A6C-750B-40E9-AC4A-E2D3F9F9EF71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{60F6CEF0-577F-4FF1-9250-245FD6E8BA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60F6CEF0-577F-4FF1-9250-245FD6E8BA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60F6CEF0-577F-4FF1-9250-245FD6E8BA94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38A18A6C-750B-40E9-AC4A-E2D3F9F9EF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A18A6C-750B-40E9-AC4A-E2D3F9F9EF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A18A6C-750B-40E9-AC4A-E2D3F9F9EF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A18A6C-750B-40E9-AC4A-E2D3F9F9EF71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
