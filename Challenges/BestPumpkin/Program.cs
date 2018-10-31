@@ -106,6 +106,7 @@ namespace BestPumpkin
             double minDiff = 2;
             double size = 0;
 
+            // comparing the ratios of dimensions
             for (int i = 0; i < pumpkinDimensions.Length; i++)
             {
                 int[] a = pumpkinDimensions[i];
@@ -134,6 +135,7 @@ namespace BestPumpkin
             int left = cLen - 1;
             int right = 0;
 
+            // getting the indexes of the left-most, rightmost, top and bottom asterisks
             for (int i = 0; i < rLen; i++)
             {
                 int c1 = s[i].IndexOf('#');
