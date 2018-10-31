@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestPumpkin", "BestPumpkin\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedingForCandy", "SpeedingForCandy\SpeedingForCandy.csproj", "{8E50809C-0591-42C0-9D84-64E7C771E2B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SugarHigh", "SugarHigh\SugarHigh.csproj", "{1DE5A447-0CC6-4480-AE0D-47F8F38B2D3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{8E50809C-0591-42C0-9D84-64E7C771E2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E50809C-0591-42C0-9D84-64E7C771E2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E50809C-0591-42C0-9D84-64E7C771E2B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE5A447-0CC6-4480-AE0D-47F8F38B2D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE5A447-0CC6-4480-AE0D-47F8F38B2D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE5A447-0CC6-4480-AE0D-47F8F38B2D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE5A447-0CC6-4480-AE0D-47F8F38B2D3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
