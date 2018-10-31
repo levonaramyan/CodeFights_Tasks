@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncodingDecoding", "Encodin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInterference", "ReverseInterference\ReverseInterference.csproj", "{940137E8-8820-40BE-BDA5-C75566C16FAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestPumpkin", "BestPumpkin\BestPumpkin.csproj", "{D9352E27-D3EA-4074-809F-D64EF630B05B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{940137E8-8820-40BE-BDA5-C75566C16FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{940137E8-8820-40BE-BDA5-C75566C16FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{940137E8-8820-40BE-BDA5-C75566C16FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9352E27-D3EA-4074-809F-D64EF630B05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9352E27-D3EA-4074-809F-D64EF630B05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9352E27-D3EA-4074-809F-D64EF630B05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9352E27-D3EA-4074-809F-D64EF630B05B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
