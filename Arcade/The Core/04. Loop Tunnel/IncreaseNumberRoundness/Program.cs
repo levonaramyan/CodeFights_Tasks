@@ -36,7 +36,7 @@ namespace IncreaseNumberRoundness
             while (n % 10 == 0)
                 n = n / 10;
 
-            // getting the second non-zero
+            // getting the zero, before a founded non-zero digit
             while (n > 9)
             {
                 if (n % 10 != 0)
