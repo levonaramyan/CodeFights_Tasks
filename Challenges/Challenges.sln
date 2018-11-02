@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SugarHigh", "SugarHigh\Suga
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FragileRotatingBox", "FragileRotatingBox\FragileRotatingBox.csproj", "{4D801D86-CC2F-48A1-8763-AE75A76BB27E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpingJimmy2", "JumpingJimmy2\JumpingJimmy2.csproj", "{2E80DBC0-7E05-4E32-8B18-276E3279575D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{4D801D86-CC2F-48A1-8763-AE75A76BB27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D801D86-CC2F-48A1-8763-AE75A76BB27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D801D86-CC2F-48A1-8763-AE75A76BB27E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E80DBC0-7E05-4E32-8B18-276E3279575D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E80DBC0-7E05-4E32-8B18-276E3279575D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E80DBC0-7E05-4E32-8B18-276E3279575D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E80DBC0-7E05-4E32-8B18-276E3279575D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
