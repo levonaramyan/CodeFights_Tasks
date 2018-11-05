@@ -4,14 +4,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Determine if the given number is a power of some non-negative integer.
+// Example:
+//          For n = 125, the output should be
+//          isPower(n) = true;
+
+//          For n = 72, the output should be
+//          isPower(n) = false.
+
 namespace IsPower
 {
     class Program
     {
         static void Main(string[] args)
         {
+            // Testing and printing the results
+            Console.WriteLine(isPower(125));
+            Console.ReadKey();
         }
 
+        // Returns true if n is a square of an integer
         static bool isPower(int n)
         {
             bool res = false;
