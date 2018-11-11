@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimalRotatingBox", "Optim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretAgentsMeetingProposal", "SecretAgentsMeetingProposal\SecretAgentsMeetingProposal.csproj", "{DE5C3B62-75AE-409F-AA44-B4E336B32149}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBonacciDegree", "NBonacciDegree\NBonacciDegree.csproj", "{F34127CD-46FC-4D0B-B4D6-9CE85DAB2D3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{DE5C3B62-75AE-409F-AA44-B4E336B32149}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE5C3B62-75AE-409F-AA44-B4E336B32149}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE5C3B62-75AE-409F-AA44-B4E336B32149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34127CD-46FC-4D0B-B4D6-9CE85DAB2D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34127CD-46FC-4D0B-B4D6-9CE85DAB2D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34127CD-46FC-4D0B-B4D6-9CE85DAB2D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34127CD-46FC-4D0B-B4D6-9CE85DAB2D3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
