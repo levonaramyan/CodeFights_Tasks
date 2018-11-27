@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretAgentsMeetingProposal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBonacciDegree", "NBonacciDegree\NBonacciDegree.csproj", "{F34127CD-46FC-4D0B-B4D6-9CE85DAB2D3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficLightsD1", "TrafficLightsD1\TrafficLightsD1.csproj", "{76397753-F6F6-4D89-B43B-522B6CFB5F2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{F34127CD-46FC-4D0B-B4D6-9CE85DAB2D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F34127CD-46FC-4D0B-B4D6-9CE85DAB2D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F34127CD-46FC-4D0B-B4D6-9CE85DAB2D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76397753-F6F6-4D89-B43B-522B6CFB5F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76397753-F6F6-4D89-B43B-522B6CFB5F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76397753-F6F6-4D89-B43B-522B6CFB5F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76397753-F6F6-4D89-B43B-522B6CFB5F2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
