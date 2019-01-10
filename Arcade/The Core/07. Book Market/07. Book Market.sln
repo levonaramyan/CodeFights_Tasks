@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsCaseInsesitivePalindrome"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindEmailDomain", "FindEmailDomain\FindEmailDomain.csproj", "{0F6ABFEA-5612-4B31-AFD9-BD7FBD694FC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlEndTagByStartTag", "HtmlEndTagByStartTag\HtmlEndTagByStartTag.csproj", "{64675F31-6D04-4B7E-AEA0-C251EBDDC491}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0F6ABFEA-5612-4B31-AFD9-BD7FBD694FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F6ABFEA-5612-4B31-AFD9-BD7FBD694FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F6ABFEA-5612-4B31-AFD9-BD7FBD694FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64675F31-6D04-4B7E-AEA0-C251EBDDC491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64675F31-6D04-4B7E-AEA0-C251EBDDC491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64675F31-6D04-4B7E-AEA0-C251EBDDC491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64675F31-6D04-4B7E-AEA0-C251EBDDC491}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
