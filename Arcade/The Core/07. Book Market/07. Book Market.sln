@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindEmailDomain", "FindEmai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlEndTagByStartTag", "HtmlEndTagByStartTag\HtmlEndTagByStartTag.csproj", "{64675F31-6D04-4B7E-AEA0-C251EBDDC491}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsMac48Address", "IsMac48Address\IsMac48Address.csproj", "{6C8C6882-2298-4EB2-9E0E-9C0C28346F45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{64675F31-6D04-4B7E-AEA0-C251EBDDC491}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64675F31-6D04-4B7E-AEA0-C251EBDDC491}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64675F31-6D04-4B7E-AEA0-C251EBDDC491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C8C6882-2298-4EB2-9E0E-9C0C28346F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8C6882-2298-4EB2-9E0E-9C0C28346F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8C6882-2298-4EB2-9E0E-9C0C28346F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8C6882-2298-4EB2-9E0E-9C0C28346F45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
