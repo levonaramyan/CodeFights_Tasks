@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncloseInBrackets", "EncloseInBrackets\EncloseInBrackets.csproj", "{0DA2414F-E253-412A-9B38-2399EAE84C82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProperNounCorrection", "ProperNounCorrection\ProperNounCorrection.csproj", "{D2AF52CC-48EE-46B8-8415-59FACD79E691}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0DA2414F-E253-412A-9B38-2399EAE84C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DA2414F-E253-412A-9B38-2399EAE84C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DA2414F-E253-412A-9B38-2399EAE84C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2AF52CC-48EE-46B8-8415-59FACD79E691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AF52CC-48EE-46B8-8415-59FACD79E691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AF52CC-48EE-46B8-8415-59FACD79E691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AF52CC-48EE-46B8-8415-59FACD79E691}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
