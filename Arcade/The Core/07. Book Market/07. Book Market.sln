@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProperNounCorrection", "Pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsTandemRepeat", "IsTandemRepeat\IsTandemRepeat.csproj", "{F6942EEC-22C0-4362-A908-2F59A365F700}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsCaseInsesitivePalindrome", "IsCaseInsesitivePalindrome\IsCaseInsesitivePalindrome.csproj", "{27AD69C1-7F1C-426B-9777-C82203759D2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F6942EEC-22C0-4362-A908-2F59A365F700}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6942EEC-22C0-4362-A908-2F59A365F700}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6942EEC-22C0-4362-A908-2F59A365F700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27AD69C1-7F1C-426B-9777-C82203759D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AD69C1-7F1C-426B-9777-C82203759D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AD69C1-7F1C-426B-9777-C82203759D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AD69C1-7F1C-426B-9777-C82203759D2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
