@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 // A ciphertext alphabet is obtained from the plaintext alphabet by means of rearranging some characters.
 // For example "bacdef...xyz" will be a simple ciphertext alphabet where a and b are rearranged.
