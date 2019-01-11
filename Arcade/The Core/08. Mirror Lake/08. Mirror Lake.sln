@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateAnagram", "CreateAnag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructSquare", "ConstructSquare\ConstructSquare.csproj", "{BC7502BE-0547-431D-8994-015864DF4ACA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersGrouping", "NumbersGrouping\NumbersGrouping.csproj", "{1835F16A-13D1-4868-9032-392FD30F942E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BC7502BE-0547-431D-8994-015864DF4ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC7502BE-0547-431D-8994-015864DF4ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC7502BE-0547-431D-8994-015864DF4ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1835F16A-13D1-4868-9032-392FD30F942E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1835F16A-13D1-4868-9032-392FD30F942E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1835F16A-13D1-4868-9032-392FD30F942E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1835F16A-13D1-4868-9032-392FD30F942E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
