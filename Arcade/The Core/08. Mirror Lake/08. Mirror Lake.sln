@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsSubstitutionCipher", "IsS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateAnagram", "CreateAnagram\CreateAnagram.csproj", "{D15E1B53-07F3-45A2-AC99-ADA820013539}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructSquare", "ConstructSquare\ConstructSquare.csproj", "{BC7502BE-0547-431D-8994-015864DF4ACA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D15E1B53-07F3-45A2-AC99-ADA820013539}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D15E1B53-07F3-45A2-AC99-ADA820013539}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D15E1B53-07F3-45A2-AC99-ADA820013539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC7502BE-0547-431D-8994-015864DF4ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7502BE-0547-431D-8994-015864DF4ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7502BE-0547-431D-8994-015864DF4ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7502BE-0547-431D-8994-015864DF4ACA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
