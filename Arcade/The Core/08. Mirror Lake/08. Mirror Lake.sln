@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructSquare", "Construc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersGrouping", "NumbersGrouping\NumbersGrouping.csproj", "{1835F16A-13D1-4868-9032-392FD30F942E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferentSquares", "DifferentSquares\DifferentSquares.csproj", "{F122261E-5AB6-464B-81C9-46373CB170D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1835F16A-13D1-4868-9032-392FD30F942E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1835F16A-13D1-4868-9032-392FD30F942E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1835F16A-13D1-4868-9032-392FD30F942E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F122261E-5AB6-464B-81C9-46373CB170D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F122261E-5AB6-464B-81C9-46373CB170D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F122261E-5AB6-464B-81C9-46373CB170D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F122261E-5AB6-464B-81C9-46373CB170D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
