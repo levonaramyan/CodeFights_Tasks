@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerToStringOfFixedWidth
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreSimilar", "AreSimilar\AreSimilar.csproj", "{231BD099-F989-4F34-B9EE-4BD1EAC05F86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaNumbers", "AdaNumbers\AdaNumbers.csproj", "{9DE0876F-FDCE-4303-9FC4-F5C10599BADD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{231BD099-F989-4F34-B9EE-4BD1EAC05F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{231BD099-F989-4F34-B9EE-4BD1EAC05F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{231BD099-F989-4F34-B9EE-4BD1EAC05F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE0876F-FDCE-4303-9FC4-F5C10599BADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE0876F-FDCE-4303-9FC4-F5C10599BADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE0876F-FDCE-4303-9FC4-F5C10599BADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE0876F-FDCE-4303-9FC4-F5C10599BADD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
