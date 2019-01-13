@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBorder", "AddBorder\AddB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchLights", "SwitchLights\SwitchLights.csproj", "{AC2BCDCA-7BA5-40B8-B83E-79BB1CD782D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimedReading", "TimedReading\TimedReading.csproj", "{984FECDA-EA96-4BA6-A7CE-E5C47BFDD28D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{AC2BCDCA-7BA5-40B8-B83E-79BB1CD782D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC2BCDCA-7BA5-40B8-B83E-79BB1CD782D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC2BCDCA-7BA5-40B8-B83E-79BB1CD782D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{984FECDA-EA96-4BA6-A7CE-E5C47BFDD28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984FECDA-EA96-4BA6-A7CE-E5C47BFDD28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984FECDA-EA96-4BA6-A7CE-E5C47BFDD28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984FECDA-EA96-4BA6-A7CE-E5C47BFDD28D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
