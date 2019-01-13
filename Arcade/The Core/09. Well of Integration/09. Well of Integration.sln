@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreSimilar", "AreSimilar\Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaNumbers", "AdaNumbers\AdaNumbers.csproj", "{9DE0876F-FDCE-4303-9FC4-F5C10599BADD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeSplit", "ThreeSplit\ThreeSplit.csproj", "{404E35B8-CE4F-4EA3-BC54-0B16868BFCAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{9DE0876F-FDCE-4303-9FC4-F5C10599BADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DE0876F-FDCE-4303-9FC4-F5C10599BADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DE0876F-FDCE-4303-9FC4-F5C10599BADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404E35B8-CE4F-4EA3-BC54-0B16868BFCAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404E35B8-CE4F-4EA3-BC54-0B16868BFCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404E35B8-CE4F-4EA3-BC54-0B16868BFCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404E35B8-CE4F-4EA3-BC54-0B16868BFCAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
