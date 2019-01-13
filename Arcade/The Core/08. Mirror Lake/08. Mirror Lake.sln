@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferentSquares", "Differe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostFrequentDigitSum", "MostFrequentDigitSum\MostFrequentDigitSum.csproj", "{71C52D49-E444-4681-A0AB-2B1DC4D7B8C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfClans", "NumberOfClans\NumberOfClans.csproj", "{ABD4BCCD-0765-4A7D-A134-8275880154A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{71C52D49-E444-4681-A0AB-2B1DC4D7B8C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71C52D49-E444-4681-A0AB-2B1DC4D7B8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71C52D49-E444-4681-A0AB-2B1DC4D7B8C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD4BCCD-0765-4A7D-A134-8275880154A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD4BCCD-0765-4A7D-A134-8275880154A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD4BCCD-0765-4A7D-A134-8275880154A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD4BCCD-0765-4A7D-A134-8275880154A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
