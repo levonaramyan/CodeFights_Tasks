@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalNumbersOfCoins", "Mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBorder", "AddBorder\AddBorder.csproj", "{54BD61AB-3DB9-435E-8B48-5D55511B3265}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchLights", "SwitchLights\SwitchLights.csproj", "{AC2BCDCA-7BA5-40B8-B83E-79BB1CD782D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{54BD61AB-3DB9-435E-8B48-5D55511B3265}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54BD61AB-3DB9-435E-8B48-5D55511B3265}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54BD61AB-3DB9-435E-8B48-5D55511B3265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC2BCDCA-7BA5-40B8-B83E-79BB1CD782D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2BCDCA-7BA5-40B8-B83E-79BB1CD782D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2BCDCA-7BA5-40B8-B83E-79BB1CD782D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2BCDCA-7BA5-40B8-B83E-79BB1CD782D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
