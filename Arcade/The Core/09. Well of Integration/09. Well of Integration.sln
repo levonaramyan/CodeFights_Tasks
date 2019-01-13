@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseNumbersSum", "HouseNum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllLongestStrings", "AllLongestStrings\AllLongestStrings.csproj", "{5D6FE655-F9D8-460C-847A-5C1E623081B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseOfCats", "HouseOfCats\HouseOfCats.csproj", "{841CCD77-5430-4005-A366-60AFEF81ABF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5D6FE655-F9D8-460C-847A-5C1E623081B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D6FE655-F9D8-460C-847A-5C1E623081B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D6FE655-F9D8-460C-847A-5C1E623081B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{841CCD77-5430-4005-A366-60AFEF81ABF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841CCD77-5430-4005-A366-60AFEF81ABF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841CCD77-5430-4005-A366-60AFEF81ABF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841CCD77-5430-4005-A366-60AFEF81ABF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
