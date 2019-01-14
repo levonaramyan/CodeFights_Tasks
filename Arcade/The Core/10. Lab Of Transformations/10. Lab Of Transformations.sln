@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HigherVersion", "HigherVers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decipher", "Decipher\Decipher.csproj", "{DB73B62C-A106-4588-98FE-27EA9784F2CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphanumericLess", "AlphanumericLess\AlphanumericLess.csproj", "{8EEBE2F2-3709-4367-98BC-C1B1C35ABD5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{DB73B62C-A106-4588-98FE-27EA9784F2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB73B62C-A106-4588-98FE-27EA9784F2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB73B62C-A106-4588-98FE-27EA9784F2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EEBE2F2-3709-4367-98BC-C1B1C35ABD5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEBE2F2-3709-4367-98BC-C1B1C35ABD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEBE2F2-3709-4367-98BC-C1B1C35ABD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEBE2F2-3709-4367-98BC-C1B1C35ABD5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
