@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairOfShoes", "PairOfShoes\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combs", "Combs\Combs.csproj", "{980E229D-9115-4C06-BA33-600C07B51B6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsCrossover", "StringsCrossover\StringsCrossover.csproj", "{25A99FA2-2CB2-417D-93BE-C1D2A609B1F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{980E229D-9115-4C06-BA33-600C07B51B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{980E229D-9115-4C06-BA33-600C07B51B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{980E229D-9115-4C06-BA33-600C07B51B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25A99FA2-2CB2-417D-93BE-C1D2A609B1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A99FA2-2CB2-417D-93BE-C1D2A609B1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A99FA2-2CB2-417D-93BE-C1D2A609B1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A99FA2-2CB2-417D-93BE-C1D2A609B1F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
