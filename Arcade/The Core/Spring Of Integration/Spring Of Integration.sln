@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunnersMeetings", "RunnersM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasTree", "ChristmasTree\ChristmasTree.csproj", "{F8CF231F-2B0E-4A5D-884E-02D33AB02A6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileNaming", "FileNaming\FileNaming.csproj", "{6B161AEA-1583-4CE8-AF19-C4973E9ED34A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F8CF231F-2B0E-4A5D-884E-02D33AB02A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8CF231F-2B0E-4A5D-884E-02D33AB02A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8CF231F-2B0E-4A5D-884E-02D33AB02A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B161AEA-1583-4CE8-AF19-C4973E9ED34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B161AEA-1583-4CE8-AF19-C4973E9ED34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B161AEA-1583-4CE8-AF19-C4973E9ED34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B161AEA-1583-4CE8-AF19-C4973E9ED34A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
