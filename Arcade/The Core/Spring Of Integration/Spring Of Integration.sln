@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclicString", "CyclicStrin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulText", "BeautifulText\BeautifulText.csproj", "{AD701024-252D-4C63-B20E-8D70059B9483}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunnersMeetings", "RunnersMeetings\RunnersMeetings.csproj", "{1B2D46F4-BEC1-41D9-9976-B821DA6F2240}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{AD701024-252D-4C63-B20E-8D70059B9483}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD701024-252D-4C63-B20E-8D70059B9483}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD701024-252D-4C63-B20E-8D70059B9483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2D46F4-BEC1-41D9-9976-B821DA6F2240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2D46F4-BEC1-41D9-9976-B821DA6F2240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2D46F4-BEC1-41D9-9976-B821DA6F2240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2D46F4-BEC1-41D9-9976-B821DA6F2240}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
