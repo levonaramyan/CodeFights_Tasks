@@ -12,5 +12,14 @@ namespace ExractMatrixColumn
         {
 
         }
+
+        static int[] extractMatrixColumn(int[][] matrix, int column)
+        {
+            int[] a = new int[matrix.Length];
+            for (int i = 0; i < a.Length; i++)
+                a[i] = matrix[i][column];
+            return a;
+
+        }
     }
 }
