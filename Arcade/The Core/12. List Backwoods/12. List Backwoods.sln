@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossingSum", "CrossingSum\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawRectangle", "DrawRectangle\DrawRectangle.csproj", "{1F6BBB59-8448-4E2F-B6F7-31915232BF7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolleyballPositions", "VolleyballPositions\VolleyballPositions.csproj", "{69994052-770D-456D-9D12-DF1CEFC399F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1F6BBB59-8448-4E2F-B6F7-31915232BF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F6BBB59-8448-4E2F-B6F7-31915232BF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F6BBB59-8448-4E2F-B6F7-31915232BF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69994052-770D-456D-9D12-DF1CEFC399F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69994052-770D-456D-9D12-DF1CEFC399F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69994052-770D-456D-9D12-DF1CEFC399F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69994052-770D-456D-9D12-DF1CEFC399F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
