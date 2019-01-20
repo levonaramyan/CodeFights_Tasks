@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawRectangle", "DrawRectan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolleyballPositions", "VolleyballPositions\VolleyballPositions.csproj", "{69994052-770D-456D-9D12-DF1CEFC399F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarRotation", "StarRotation\StarRotation.csproj", "{B109F9D9-EDCC-41D8-887D-21163BD9B5BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{69994052-770D-456D-9D12-DF1CEFC399F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69994052-770D-456D-9D12-DF1CEFC399F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69994052-770D-456D-9D12-DF1CEFC399F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B109F9D9-EDCC-41D8-887D-21163BD9B5BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B109F9D9-EDCC-41D8-887D-21163BD9B5BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B109F9D9-EDCC-41D8-887D-21163BD9B5BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B109F9D9-EDCC-41D8-887D-21163BD9B5BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
