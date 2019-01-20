@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseOnDiagonals", "Rever
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapDiagonals", "SwapDiagonals\SwapDiagonals.csproj", "{D8326CE3-8AA8-4954-8F58-53562CAFEEF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossingSum", "CrossingSum\CrossingSum.csproj", "{F378ADC8-EE8E-4B71-9811-B7A7BBAA3D60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D8326CE3-8AA8-4954-8F58-53562CAFEEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8326CE3-8AA8-4954-8F58-53562CAFEEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8326CE3-8AA8-4954-8F58-53562CAFEEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F378ADC8-EE8E-4B71-9811-B7A7BBAA3D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F378ADC8-EE8E-4B71-9811-B7A7BBAA3D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F378ADC8-EE8E-4B71-9811-B7A7BBAA3D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F378ADC8-EE8E-4B71-9811-B7A7BBAA3D60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
