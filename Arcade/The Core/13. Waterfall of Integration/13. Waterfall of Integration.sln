@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravitation", "Gravitation\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsInformationConsistent", "IsInformationConsistent\IsInformationConsistent.csproj", "{267BEDC9-AE0F-4D07-95C3-C1652AD4FA81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectNonogram", "CorrectNonogram\CorrectNonogram.csproj", "{0C576AA5-F3B7-43EF-94B6-11D426774469}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{267BEDC9-AE0F-4D07-95C3-C1652AD4FA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{267BEDC9-AE0F-4D07-95C3-C1652AD4FA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{267BEDC9-AE0F-4D07-95C3-C1652AD4FA81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C576AA5-F3B7-43EF-94B6-11D426774469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C576AA5-F3B7-43EF-94B6-11D426774469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C576AA5-F3B7-43EF-94B6-11D426774469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C576AA5-F3B7-43EF-94B6-11D426774469}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
