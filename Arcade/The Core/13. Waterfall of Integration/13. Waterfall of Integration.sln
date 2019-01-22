@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku", "Sudoku\Sudoku.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper", "Minesweeper\Minesweeper.csproj", "{5B523FD7-39C8-40F6-90E3-E5DA4BFB3582}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxBlur", "BoxBlur\BoxBlur.csproj", "{FF1582B2-F538-4B86-9BBD-CBD98DD686AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5B523FD7-39C8-40F6-90E3-E5DA4BFB3582}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B523FD7-39C8-40F6-90E3-E5DA4BFB3582}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B523FD7-39C8-40F6-90E3-E5DA4BFB3582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF1582B2-F538-4B86-9BBD-CBD98DD686AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1582B2-F538-4B86-9BBD-CBD98DD686AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1582B2-F538-4B86-9BBD-CBD98DD686AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1582B2-F538-4B86-9BBD-CBD98DD686AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
