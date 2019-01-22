@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxBlur", "BoxBlur\BoxBlur.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContoursShifting", "ContoursShifting\ContoursShifting.csproj", "{DF8BDA4D-6009-498B-AE04-7DEA862BAAAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolygonPerimeter", "PolygonPerimeter\PolygonPerimeter.csproj", "{671E99A0-55FF-459B-8453-42C962ED7E70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DF8BDA4D-6009-498B-AE04-7DEA862BAAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF8BDA4D-6009-498B-AE04-7DEA862BAAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF8BDA4D-6009-498B-AE04-7DEA862BAAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671E99A0-55FF-459B-8453-42C962ED7E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671E99A0-55FF-459B-8453-42C962ED7E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671E99A0-55FF-459B-8453-42C962ED7E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671E99A0-55FF-459B-8453-42C962ED7E70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
