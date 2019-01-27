@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RowsRearranging", "RowsRear
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitDifferenceSort", "DigitDifferenceSort\DigitDifferenceSort.csproj", "{AC50D2D4-5304-4437-A417-AEF6B0A7883D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueDigitProducts", "UniqueDigitProducts\UniqueDigitProducts.csproj", "{92DB4D39-BD33-4F7A-BD29-A3A39129B89A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{AC50D2D4-5304-4437-A417-AEF6B0A7883D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC50D2D4-5304-4437-A417-AEF6B0A7883D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC50D2D4-5304-4437-A417-AEF6B0A7883D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92DB4D39-BD33-4F7A-BD29-A3A39129B89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DB4D39-BD33-4F7A-BD29-A3A39129B89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DB4D39-BD33-4F7A-BD29-A3A39129B89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DB4D39-BD33-4F7A-BD29-A3A39129B89A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
