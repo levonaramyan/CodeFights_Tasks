@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffledArray", "ShuffledAr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortByHeight", "SortByHeight\SortByHeight.csproj", "{7D4367A0-3C5E-46FE-8D99-ED0606EBA0E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortByLength", "SortByLength\SortByLength.csproj", "{4DF1EF92-FCE0-4544-8B82-D1F9D0F2D875}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7D4367A0-3C5E-46FE-8D99-ED0606EBA0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D4367A0-3C5E-46FE-8D99-ED0606EBA0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D4367A0-3C5E-46FE-8D99-ED0606EBA0E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF1EF92-FCE0-4544-8B82-D1F9D0F2D875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF1EF92-FCE0-4544-8B82-D1F9D0F2D875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF1EF92-FCE0-4544-8B82-D1F9D0F2D875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF1EF92-FCE0-4544-8B82-D1F9D0F2D875}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
