@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortByLength", "SortByLengt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxesPacking", "BoxesPacking\BoxesPacking.csproj", "{63739E5F-0C53-4188-ADE2-BF7A2B710036}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSum", "MaximumSum\MaximumSum.csproj", "{B56BBBB2-A977-4077-9D1A-C879C707B05D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{63739E5F-0C53-4188-ADE2-BF7A2B710036}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63739E5F-0C53-4188-ADE2-BF7A2B710036}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63739E5F-0C53-4188-ADE2-BF7A2B710036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B56BBBB2-A977-4077-9D1A-C879C707B05D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56BBBB2-A977-4077-9D1A-C879C707B05D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56BBBB2-A977-4077-9D1A-C879C707B05D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56BBBB2-A977-4077-9D1A-C879C707B05D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
