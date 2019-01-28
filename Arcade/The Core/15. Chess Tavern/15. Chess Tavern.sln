@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhoseTurn", "WhoseTurn\Whos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessBishopDream", "ChessBishopDream\ChessBishopDream.csproj", "{03A788D5-90A4-4E68-98FC-93CB7B4BAA87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessTriangle", "ChessTriangle\ChessTriangle.csproj", "{61B00915-1DD8-4AD0-8E4D-1263641CEC39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{03A788D5-90A4-4E68-98FC-93CB7B4BAA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03A788D5-90A4-4E68-98FC-93CB7B4BAA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03A788D5-90A4-4E68-98FC-93CB7B4BAA87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B00915-1DD8-4AD0-8E4D-1263641CEC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B00915-1DD8-4AD0-8E4D-1263641CEC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B00915-1DD8-4AD0-8E4D-1263641CEC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B00915-1DD8-4AD0-8E4D-1263641CEC39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
