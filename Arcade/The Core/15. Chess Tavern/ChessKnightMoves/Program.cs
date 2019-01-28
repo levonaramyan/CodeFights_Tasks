@@ -4,6 +4,24 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Given a position of a knight on the standard chessboard,
+// find the number of different moves the knight can perform.
+// The knight can move to a square that is two squares horizontally and one square vertically,
+// or two squares vertically and one square horizontally away from it.
+// The complete move therefore looks like the letter L.Check out the image below to see
+// all valid moves for a knight piece that is placed on one of the central squares.
+// https://codefightsuserpics.s3.amazonaws.com/tasks/chessKnightMoves/img/knight.jpg?_tm=1530791323411
+// Example:
+//          For cell = "a1", the output should be
+//          chessKnightMoves(cell) = 2.
+//          https://codefightsuserpics.s3.amazonaws.com/tasks/chessKnightMoves/img/ex_1.jpg?_tm=1530791323698
+//
+//          For cell = "c2", the output should be
+//          chessKnightMoves(cell) = 6.
+//          https://codefightsuserpics.s3.amazonaws.com/tasks/chessKnightMoves/img/ex_2.jpg?_tm=1530791324100
+
+
+
 namespace ChessKnightMoves
 {
     class Program
@@ -37,6 +55,5 @@ namespace ChessKnightMoves
 
             return count;
         }
-
     }
 }
