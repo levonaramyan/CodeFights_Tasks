@@ -20,8 +20,6 @@ using System.Threading.Tasks;
 //          chessKnightMoves(cell) = 6.
 //          https://codefightsuserpics.s3.amazonaws.com/tasks/chessKnightMoves/img/ex_2.jpg?_tm=1530791324100
 
-
-
 namespace ChessKnightMoves
 {
     class Program
