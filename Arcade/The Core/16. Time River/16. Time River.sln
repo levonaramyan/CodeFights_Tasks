@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfWeek", "DayOfWeek\DayO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuriousClock", "CuriousClock\CuriousClock.csproj", "{511AD2AA-0405-4251-B020-A426B1D4FB26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYearCelebrations", "NewYearCelebrations\NewYearCelebrations.csproj", "{3E14EF7E-A2C3-4A62-8BD1-B25C0344A6DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{511AD2AA-0405-4251-B020-A426B1D4FB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{511AD2AA-0405-4251-B020-A426B1D4FB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{511AD2AA-0405-4251-B020-A426B1D4FB26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E14EF7E-A2C3-4A62-8BD1-B25C0344A6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E14EF7E-A2C3-4A62-8BD1-B25C0344A6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E14EF7E-A2C3-4A62-8BD1-B25C0344A6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E14EF7E-A2C3-4A62-8BD1-B25C0344A6DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
