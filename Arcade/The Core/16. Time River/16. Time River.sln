@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularMonths", "RegularMon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissedClasses", "MissedClasses\MissedClasses.csproj", "{9B612BB1-D34A-4877-986F-B14D88DE73F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Holiday", "Holiday\Holiday.csproj", "{48357235-287E-473D-AEB5-293B71E6D1B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{9B612BB1-D34A-4877-986F-B14D88DE73F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B612BB1-D34A-4877-986F-B14D88DE73F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B612BB1-D34A-4877-986F-B14D88DE73F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48357235-287E-473D-AEB5-293B71E6D1B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48357235-287E-473D-AEB5-293B71E6D1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48357235-287E-473D-AEB5-293B71E6D1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48357235-287E-473D-AEB5-293B71E6D1B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
