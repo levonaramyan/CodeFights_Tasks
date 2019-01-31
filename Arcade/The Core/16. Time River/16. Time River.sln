@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidTime", "ValidTime\ValidTime.csproj", "{91ADB229-C2C0-41D3-86E5-AB466FF1E626}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoPart", "VideoPart\VideoPart.csproj", "{EAA6FAB4-DD70-43A7-B0D5-DE5418F166DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{91ADB229-C2C0-41D3-86E5-AB466FF1E626}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91ADB229-C2C0-41D3-86E5-AB466FF1E626}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91ADB229-C2C0-41D3-86E5-AB466FF1E626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA6FAB4-DD70-43A7-B0D5-DE5418F166DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA6FAB4-DD70-43A7-B0D5-DE5418F166DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA6FAB4-DD70-43A7-B0D5-DE5418F166DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA6FAB4-DD70-43A7-B0D5-DE5418F166DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
