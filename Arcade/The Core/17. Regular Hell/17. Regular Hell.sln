@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NthNumber", "NthNumber\NthN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsSubsequence", "IsSubsequence\IsSubsequence.csproj", "{D97254BB-DFD5-4CDB-A1B7-F638FDF91BF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyeRhyme", "EyeRhyme\EyeRhyme.csproj", "{84D4CEED-F510-4D68-869D-11625AD73511}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D97254BB-DFD5-4CDB-A1B7-F638FDF91BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D97254BB-DFD5-4CDB-A1B7-F638FDF91BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D97254BB-DFD5-4CDB-A1B7-F638FDF91BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D4CEED-F510-4D68-869D-11625AD73511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D4CEED-F510-4D68-869D-11625AD73511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D4CEED-F510-4D68-869D-11625AD73511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D4CEED-F510-4D68-869D-11625AD73511}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
