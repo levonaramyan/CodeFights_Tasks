@@ -2,8 +2,8 @@
 In this repository I gathered all of my solutions of the tasks from databases section of Codesignal Arccade. Below are the Sections
 
 1. [Welcome to the Table](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/01_Welcome_To_The_Table.sql)
-   -  [projectList]
-   -  [countriesSelection]
+   -  [projectList](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/01_Welcome_To_The_Table.sql)
+   -  [countriesSelection](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/01_Welcome_To_The_Table.sql)
 
 2. [Always Leave Table in ORDER](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/02_Always_Leave_Table_In_ORDER.sql)
 
