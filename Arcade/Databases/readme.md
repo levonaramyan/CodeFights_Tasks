@@ -16,5 +16,11 @@ In this repository I gathered all of my MySQL solutions of the tasks from databa
  -  [mischievousNephews](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/02_Always_Leave_Table_In_ORDER.sql)
 
 ## 3. [Would you LIKE the Second Meal?](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/03_Would_You_Like_The_Second_Meal.sql)
+ -  [suspectsInvestigation](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/03_Would_You_Like_The_Second_Meal.sql)
+ -  [suspectsInvestigation2](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/03_Would_You_Like_The_Second_Meal.sql)
+ -  [securityBreach](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/03_Would_You_Like_The_Second_Meal.sql)
+ -  [testCheck](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/03_Would_You_Like_The_Second_Meal.sql)
+ -  [expressionsVerification](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/03_Would_You_Like_The_Second_Meal.sql)
+ -  [newsSubscribers](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/03_Would_You_Like_The_Second_Meal.sql)
 
 ## 4. [GROUP Dishes BY Type](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/04_GROUP_Dishes_BY_TYPE.sql)
