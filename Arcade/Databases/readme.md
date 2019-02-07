@@ -1,5 +1,5 @@
 # Arcade: Databases <img src="https://github.com/levonaramyan/CodeFights_Tasks/blob/master/codefights_logo.png" align="right" width="150px" height="150px" />
-In this repository I gathered all of my MySQL solutions of the tasks from databases section of Codesignal Arcade. Below are the Sections
+In this repository I gathered all of my MySQL solutions of the tasks from databases section of Codesignal.com Arcade. Below are the Sections
 
 ## 1. [Welcome to the Table](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/01_Welcome_To_The_Table.sql)
    -  [projectList](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/01_Welcome_To_The_Table.sql)
@@ -24,3 +24,10 @@ In this repository I gathered all of my MySQL solutions of the tasks from databa
  -  [newsSubscribers](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/03_Would_You_Like_The_Second_Meal.sql)
 
 ## 4. [GROUP Dishes BY Type](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/04_GROUP_Dishes_BY_TYPE.sql)
+-  [countriesInfo](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/04_GROUP_Dishes_BY_TYPE.sql)
+-  [itemCounts](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/04_GROUP_Dishes_BY_TYPE.sql)
+-  [usersByContinent](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/04_GROUP_Dishes_BY_TYPE.sql)
+-  [movieDirectors](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/04_GROUP_Dishes_BY_TYPE.sql)
+-  [travelDiary](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/04_GROUP_Dishes_BY_TYPE.sql)
+-  [soccerPlayers](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/04_GROUP_Dishes_BY_TYPE.sql)
+-  [marketReport](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/04_GROUP_Dishes_BY_TYPE.sql)
