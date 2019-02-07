@@ -1,4 +1,4 @@
-# Arcade: Databases <img src="https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/mysql-logo.jpg" align="right" width="360px" height="150px" /><img src="https://github.com/levonaramyan/CodeFights_Tasks/blob/master/codefights_logo.png" align="right" width="150px" height="150px" />
+# Arcade: Databases <img src="https://github.com/levonaramyan/CodeFights_Tasks/blob/master/codefights_logo.png" align="right" width="150px" height="150px" /> <img src="https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/mysql-logo.jpg" align="right" width="180px" height="75px" />
 In this repository I gathered all of my MySQL solutions of the tasks from databases section of Codesignal.com Arcade. Below are the Sections
 
 ## 1. [Welcome to the Table](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/01_Welcome_To_The_Table.sql)
