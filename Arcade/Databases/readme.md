@@ -31,3 +31,9 @@ In this repository I gathered all of my MySQL solutions of the tasks from databa
 -  [travelDiary](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/04_GROUP_Dishes_BY_TYPE.sql)
 -  [soccerPlayers](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/04_GROUP_Dishes_BY_TYPE.sql)
 -  [marketReport](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/04_GROUP_Dishes_BY_TYPE.sql)
+
+## 5. [Time for Tricks](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/05_Time_For_Tricks.sql)
+-  [websiteHacking](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/05_Time_For_Tricks.sql)
+-  [nullIntern](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/05_Time_For_Tricks.sql)
+-  [legsCount](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/05_Time_For_Tricks.sql)
+-  [combinationLock](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/05_Time_For_Tricks.sql)
