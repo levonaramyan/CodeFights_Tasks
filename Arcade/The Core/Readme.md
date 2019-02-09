@@ -1,13 +1,13 @@
 # Solutions: CodeSignal -> Arcade -> The Core <img src="https://github.com/levonaramyan/ISTC_C-_Professional/blob/master/C_sharp_logo.png" align="right" width="150px" height="150px" />
 ## [01. Intro Gates](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/01.%20Intro%20Gates)
-    01. [Add Two Digits](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/01.%20Intro%20Gates/AddTwoDigits/Program.cs)
-    02. [Largest Number](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/01.%20Intro%20Gates/LargestNumber/Program.cs)
-    03. [Candies](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/01.%20Intro%20Gates/Candies/Program.cs)
-    04. [Seats in Theater](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/01.%20Intro%20Gates/SeatsInTheater/Program.cs)
-    05. [Max Multiple](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/01.%20Intro%20Gates/MaxMultiple/Program.cs)
-    06. [Circle of Numbers](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/01.%20Intro%20Gates/CircleOfNumbers/Program.cs)
-    07. [Late Ride](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/01.%20Intro%20Gates/LateRide/Program.cs)
-    08. [Phone Call](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/01.%20Intro%20Gates/PhoneCall/Program.cs)
+   - [Add Two Digits](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/01.%20Intro%20Gates/AddTwoDigits/Program.cs)
+   - [Largest Number](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/01.%20Intro%20Gates/LargestNumber/Program.cs)
+   - [Candies](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/01.%20Intro%20Gates/Candies/Program.cs)
+   - [Seats in Theater](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/01.%20Intro%20Gates/SeatsInTheater/Program.cs)
+   - [Max Multiple](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/01.%20Intro%20Gates/MaxMultiple/Program.cs)
+   - [Circle of Numbers](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/01.%20Intro%20Gates/CircleOfNumbers/Program.cs)
+   - [Late Ride](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/01.%20Intro%20Gates/LateRide/Program.cs)
+   - [Phone Call](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/01.%20Intro%20Gates/PhoneCall/Program.cs)
 
 ## [02. At the Crossroads](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/02.%20At%20the%20Crossroads)
 
