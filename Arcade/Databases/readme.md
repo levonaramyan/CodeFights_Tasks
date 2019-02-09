@@ -37,3 +37,9 @@ In this repository I gathered all of my MySQL solutions of the tasks from databa
 -  [nullIntern](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/05_Time_For_Tricks.sql)
 -  [legsCount](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/05_Time_For_Tricks.sql)
 -  [combinationLock](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/05_Time_For_Tricks.sql)
+
+## 6. [Specialties](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/06_Specialties.sql)
+-  [interestClub](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/06_Specialties.sql)
+-  [personalHobbies](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/06_Specialties.sql)
+-  [booksCatalogs](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/06_Specialties.sql)
+-  [habitatArea](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/06_Specialties.sql)
