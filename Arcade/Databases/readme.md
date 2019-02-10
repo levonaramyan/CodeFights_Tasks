@@ -43,3 +43,9 @@ In this repository I gathered all of my MySQL solutions of the tasks from databa
 -  [personalHobbies](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/06_Specialties.sql)
 -  [booksCatalogs](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/06_Specialties.sql)
 -  [habitatArea](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/06_Specialties.sql)
+
+## 7. [WHEN was it the CASE?](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/07_WHEN_was_it_the_CASE.sql)
+-  [orderOfSuccession](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/07_WHEN_was_it_the_CASE.sql)
+-  [orderingEmails](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/07_WHEN_was_it_the_CASE.sql)
+-  [placesOfInterest](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/07_WHEN_was_it_the_CASE.sql)
+-  [soccerGameSeries](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/07_WHEN_was_it_the_CASE.sql)
