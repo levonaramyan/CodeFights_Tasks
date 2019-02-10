@@ -49,3 +49,7 @@ In this repository I gathered all of my MySQL solutions of the tasks from databa
 -  [orderingEmails](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/07_WHEN_was_it_the_CASE.sql)
 -  [placesOfInterest](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/07_WHEN_was_it_the_CASE.sql)
 -  [soccerGameSeries](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/07_WHEN_was_it_the_CASE.sql)
+
+## 8. [Regular Paradise](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/08_Regular_Paradise.sql)
+-  [correctIPs](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/08_Regular_Paradise.sql)
+-  [validPhoneNumbers](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/08_Regular_Paradise.sql)
