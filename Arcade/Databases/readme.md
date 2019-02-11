@@ -53,3 +53,10 @@ In this repository I gathered all of my MySQL solutions of the tasks from databa
 ## 8. [Regular Paradise](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/08_Regular_Paradise.sql)
 -  [correctIPs](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/08_Regular_Paradise.sql)
 -  [validPhoneNumbers](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/08_Regular_Paradise.sql)
+
+## 9. [Time River Revisited](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/09_Time_River_Revisited.sql)
+-  [importantEvents](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/09_Time_River_Revisited.sql)
+-  [dateFormatting](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/09_Time_River_Revisited.sql)
+-  [pastEvents](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/09_Time_River_Revisited.sql)
+-  [netIncome](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/09_Time_River_Revisited.sql)
+-  [alarmClocks](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/09_Time_River_Revisited.sql)
