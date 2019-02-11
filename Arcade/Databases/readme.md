@@ -60,3 +60,11 @@ In this repository I gathered all of my MySQL solutions of the tasks from databa
 -  [pastEvents](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/09_Time_River_Revisited.sql)
 -  [netIncome](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/09_Time_River_Revisited.sql)
 -  [alarmClocks](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/09_Time_River_Revisited.sql)
+
+## 10. [JOIN Us at the Table!](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/10_JOIN_Us_at_the_Table.sql)
+-  [companyEmployees](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/10_JOIN_Us_at_the_Table.sql)
+-  [scholarshipsDistribution](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/10_JOIN_Us_at_the_Table.sql)
+-  [userCountries](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/10_JOIN_Us_at_the_Table.sql)
+-  [placesOfInterestPairs](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/10_JOIN_Us_at_the_Table.sql)
+-  [localCalendar](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/10_JOIN_Us_at_the_Table.sql)
+-  [routeLength](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/10_JOIN_Us_at_the_Table.sql)
