@@ -67,5 +67,30 @@ namespace reverseParentheses
             // Returning the final value of string s, without any parentheses
             return s;
         }
+
+        /*---------------------------------------------------------------*/
+        // SOLUTION 2_using REGEX
+        string reverseInParentheses(string inputString)
+        {
+            string pattern = "[(][^)^(]*[)]";
+
+            while (inputString.Contains("("))
+            {
+                string matchTemp = Regex.Match(inputString, pattern).Value;
+                inputString = inputString.Replace(matchTemp, ReverseString(matchTemp.Substring(1, matchTemp.Length - 2)));
+            }
+
+            return inputString;
+        }
+
+        static string ReverseString(string input)
+        {
+            char[] output = new char[input.Length];
+
+            for (int i = 0; i < input.Length; i++)
+                output[i] = input[input.Length - i - 1];
+
+            return new string(output);
+        }
     }
 }
