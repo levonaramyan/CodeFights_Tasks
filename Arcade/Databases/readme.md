@@ -68,3 +68,11 @@ In this repository I gathered all of my MySQL solutions of the tasks from databa
 -  [placesOfInterestPairs](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/10_JOIN_Us_at_the_Table.sql)
 -  [localCalendar](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/10_JOIN_Us_at_the_Table.sql)
 -  [routeLength](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/10_JOIN_Us_at_the_Table.sql)
+
+## 10. [Table Metamorphoses](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/11_Table_Metamorphoses.sql)
+-  [currencyCodes](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/11_Table_Metamorphoses.sql)
+-  [coursesDistribution](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/11_Table_Metamorphoses.sql)
+-  [nicknames](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/11_Table_Metamorphoses.sql)
+-  [tableSecurity](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/11_Table_Metamorphoses.sql)
+-  [officeBranches](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/11_Table_Metamorphoses.sql)
+-  [restaurantInfo](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/11_Table_Metamorphoses.sql)
