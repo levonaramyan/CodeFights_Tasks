@@ -97,3 +97,7 @@ In this repository I gathered all of my MySQL solutions of the tasks from databa
 -  [orderAnalytics](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/13_Express_your_CREATivity.sql)
 -  [customerMessages](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/13_Express_your_CREATivity.sql)
 -  [orderPrices](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/13_Express_your_CREATivity.sql)
+
+## 14. [Exotic Dishes](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/14_Exotic_Dishes.sql)
+-  [findTable](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/14_Exotic_Dishes.sql)
+-  [queriesExecution](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/14_Exotic_Dishes.sql)
