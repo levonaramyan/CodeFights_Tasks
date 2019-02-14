@@ -92,3 +92,8 @@ In this repository I gathered all of my MySQL solutions of the tasks from databa
 -  [consecutiveIds](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/12_Selecting_What_to_SELECT.sql)
 -  [holidayEvent](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/12_Selecting_What_to_SELECT.sql)
 -  [hostnamesOrdering](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/12_Selecting_What_to_SELECT.sql)
+
+## 13. [Express your CREATivity](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/13_Express_your_CREATivity.sql)
+-  [orderAnalytics](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/13_Express_your_CREATivity.sql)
+-  [customerMessages](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/13_Express_your_CREATivity.sql)
+-  [orderPrices](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/13_Express_your_CREATivity.sql)
