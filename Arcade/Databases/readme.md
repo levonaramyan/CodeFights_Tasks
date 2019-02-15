@@ -109,3 +109,10 @@ In this repository I gathered all of my MySQL solutions of the tasks from databa
 -  [giftPackaging](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/15_Between_JOIN_and_SELECT.sql)
 -  [stringsStatistics](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/15_Between_JOIN_and_SELECT.sql)
 -  [unluckyEmployees](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/15_Between_JOIN_and_SELECT.sql)
+
+## 15. [A Table of Desserts](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/16_A_Table_of_Desserts.sql)
+-  [driversInfo](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/16_A_Table_of_Desserts.sql)
+-  [sortBookChapters](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/16_A_Table_of_Desserts.sql)
+-  [typeInheritance](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/16_A_Table_of_Desserts.sql)
+-  [battleshipGameResults](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/16_A_Table_of_Desserts.sql)
+-  [tictactoeTournament](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/16_A_Table_of_Desserts.sql)
