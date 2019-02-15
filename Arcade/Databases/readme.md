@@ -101,3 +101,11 @@ In this repository I gathered all of my MySQL solutions of the tasks from databa
 ## 14. [Exotic Dishes](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/14_Exotic_Dishes.sql)
 -  [findTable](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/14_Exotic_Dishes.sql)
 -  [queriesExecution](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/14_Exotic_Dishes.sql)
+
+## 15. [Between JOIN and SELECT](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/15_Between_JOIN_and_SELECT.sql)
+-  [filmLibrary](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/15_Between_JOIN_and_SELECT.sql)
+-  [bugsInComponent](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/15_Between_JOIN_and_SELECT.sql)
+-  [freeSeats](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/15_Between_JOIN_and_SELECT.sql)
+-  [giftPackaging](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/15_Between_JOIN_and_SELECT.sql)
+-  [stringsStatistics](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/15_Between_JOIN_and_SELECT.sql)
+-  [unluckyEmployees](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/Databases/15_Between_JOIN_and_SELECT.sql)
