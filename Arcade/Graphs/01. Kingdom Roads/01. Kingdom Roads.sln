@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewRoadSystem", "NewRoadSys
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadsBuilding", "RoadsBuilding\RoadsBuilding.csproj", "{21A6253B-03E4-4A70-B0BD-2D458BFB41C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "efficientRoadNetwork", "efficientRoadNetwork\efficientRoadNetwork.csproj", "{B655494B-3CB8-4A8A-A4DD-D70D54C656EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{21A6253B-03E4-4A70-B0BD-2D458BFB41C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21A6253B-03E4-4A70-B0BD-2D458BFB41C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21A6253B-03E4-4A70-B0BD-2D458BFB41C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B655494B-3CB8-4A8A-A4DD-D70D54C656EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B655494B-3CB8-4A8A-A4DD-D70D54C656EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B655494B-3CB8-4A8A-A4DD-D70D54C656EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B655494B-3CB8-4A8A-A4DD-D70D54C656EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
