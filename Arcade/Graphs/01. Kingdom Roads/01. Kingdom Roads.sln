@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialCrisis", "Financia
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamingRoads", "NamingRoads\NamingRoads.csproj", "{4CA9D6FD-BF19-446B-B290-A4F5B5F3D452}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatRenaming", "GreatRenaming\GreatRenaming.csproj", "{A775FEB0-8464-4241-8070-C59CB2B9806A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4CA9D6FD-BF19-446B-B290-A4F5B5F3D452}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CA9D6FD-BF19-446B-B290-A4F5B5F3D452}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CA9D6FD-BF19-446B-B290-A4F5B5F3D452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A775FEB0-8464-4241-8070-C59CB2B9806A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A775FEB0-8464-4241-8070-C59CB2B9806A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A775FEB0-8464-4241-8070-C59CB2B9806A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A775FEB0-8464-4241-8070-C59CB2B9806A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
