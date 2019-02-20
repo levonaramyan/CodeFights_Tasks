@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitiesConquering", "CitiesC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergingCities", "MergingCities\MergingCities.csproj", "{AA12AF36-D84A-4C2F-9D2B-35191ABE1F61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivingOnTheRoads", "LivingOnTheRoads\LivingOnTheRoads.csproj", "{A697E3A4-4F72-4322-8F35-38ACBD3E8FD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{AA12AF36-D84A-4C2F-9D2B-35191ABE1F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA12AF36-D84A-4C2F-9D2B-35191ABE1F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA12AF36-D84A-4C2F-9D2B-35191ABE1F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A697E3A4-4F72-4322-8F35-38ACBD3E8FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A697E3A4-4F72-4322-8F35-38ACBD3E8FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A697E3A4-4F72-4322-8F35-38ACBD3E8FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A697E3A4-4F72-4322-8F35-38ACBD3E8FD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
