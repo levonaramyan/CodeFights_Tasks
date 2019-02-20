@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatRenaming", "GreatRenam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitiesConquering", "CitiesConquering\CitiesConquering.csproj", "{FB3D1E6A-D019-4AF8-8B65-523D91B6B0F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergingCities", "MergingCities\MergingCities.csproj", "{AA12AF36-D84A-4C2F-9D2B-35191ABE1F61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{FB3D1E6A-D019-4AF8-8B65-523D91B6B0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB3D1E6A-D019-4AF8-8B65-523D91B6B0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB3D1E6A-D019-4AF8-8B65-523D91B6B0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA12AF36-D84A-4C2F-9D2B-35191ABE1F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA12AF36-D84A-4C2F-9D2B-35191ABE1F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA12AF36-D84A-4C2F-9D2B-35191ABE1F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA12AF36-D84A-4C2F-9D2B-35191ABE1F61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
