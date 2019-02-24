@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsButterfly", "IsButterfly\IsButterfly.csproj", "{0176C34F-50AD-4184-9699-0A112813C605}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountStars", "CountStars\CountStars.csproj", "{022DCFBE-A7FE-4F2B-8E04-ED9943244553}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0176C34F-50AD-4184-9699-0A112813C605}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0176C34F-50AD-4184-9699-0A112813C605}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0176C34F-50AD-4184-9699-0A112813C605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{022DCFBE-A7FE-4F2B-8E04-ED9943244553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022DCFBE-A7FE-4F2B-8E04-ED9943244553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022DCFBE-A7FE-4F2B-8E04-ED9943244553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022DCFBE-A7FE-4F2B-8E04-ED9943244553}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
