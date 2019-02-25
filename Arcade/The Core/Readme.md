@@ -51,3 +51,5 @@
 ## [17. Regular Hell](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/17.%20Regular%20Hell)
 
 ## [18. Secret Archives](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/18.%20Secret%20Archives)
+
+## [19. Cliffs Of Pain](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/19.%20Cliffs%20Of%20Pain)
