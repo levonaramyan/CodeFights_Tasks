@@ -10,6 +10,15 @@
    - [Phone Call](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/01.%20Intro%20Gates/PhoneCall/Program.cs)
 
 ## [02. At the Crossroads](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/02.%20At%20the%20Crossroads)
+   - [Reach Next Level](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/02.%20At%20the%20Crossroads/ReachNextLevel/Program.cs)
+   - [Knapsack Light](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/02.%20At%20the%20Crossroads/KnapsackLight/Program.cs)
+   - [Extra Number](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/02.%20At%20the%20Crossroads/ExtraNumber/Program.cs)
+   - [Is Infinite Process?](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/02.%20At%20the%20Crossroads/IsInfiniteProcess/Program.cs)
+   - [Arithmetic Expression](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/02.%20At%20the%20Crossroads/ArithmeticExpression/Program.cs)
+   - [Tennis Set](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/02.%20At%20the%20Crossroads/TennisSet/Program.cs)
+   - [Will You?](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/02.%20At%20the%20Crossroads/WillYou/Program.cs)
+   - [Metro Card](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/02.%20At%20the%20Crossroads/MetroCard/Program.cs)
+   
 
 ## [03. Corner of 0s and 1s](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s)
 
@@ -42,3 +51,5 @@
 ## [17. Regular Hell](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/17.%20Regular%20Hell)
 
 ## [18. Secret Archives](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/18.%20Secret%20Archives)
+
+## [19. Cliffs Of Pain](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/19.%20Cliffs%20Of%20Pain)
