@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetrisGame", "TetrisGame\Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PyraminxPuzzle", "PyraminxPuzzle\PyraminxPuzzle.csproj", "{40D425E4-D472-4FDC-82C3-409C59AAE89F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinesGame", "LinesGame\LinesGame.csproj", "{A91AE478-1D06-4777-A876-AEB46697CC6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{40D425E4-D472-4FDC-82C3-409C59AAE89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40D425E4-D472-4FDC-82C3-409C59AAE89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40D425E4-D472-4FDC-82C3-409C59AAE89F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A91AE478-1D06-4777-A876-AEB46697CC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91AE478-1D06-4777-A876-AEB46697CC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91AE478-1D06-4777-A876-AEB46697CC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91AE478-1D06-4777-A876-AEB46697CC6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
