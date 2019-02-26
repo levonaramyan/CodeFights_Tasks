@@ -21,6 +21,15 @@
    
 
 ## [03. Corner of 0s and 1s](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s)
+   - [Kill K-th Bit](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s/KillKthBit/Program.cs)
+   - [Array Packing](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s/ArrayPacking/Program.cs)
+   - [Range Bit Count](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s/RangeBitCount/Program.cs)
+   - [Mirror Bits](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s/MirrorBits/Program.cs)
+   - [Second-Rightmost Zero Bit](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s/SecondRightmostZeroBit/Program.cs)
+   - [Swap Adjacent Bits](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s/SwapAdjacentBits/Program.cs)
+   - [Different Rightmost Bit](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s/DifferentRightmostBit/Program.cs)
+   - [Equal Pair of Bits](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s/EqualPairOfBits/Program.cs)
+   
 
 ## [04. Loop Tunnel](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/04.%20Loop%20Tunnel)
 
