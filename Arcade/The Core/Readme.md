@@ -21,8 +21,27 @@
    
 
 ## [03. Corner of 0s and 1s](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s)
+   - [Kill K-th Bit](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s/KillKthBit/Program.cs)
+   - [Array Packing](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s/ArrayPacking/Program.cs)
+   - [Range Bit Count](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s/RangeBitCount/Program.cs)
+   - [Mirror Bits](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s/MirrorBits/Program.cs)
+   - [Second-Rightmost Zero Bit](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s/SecondRightmostZeroBit/Program.cs)
+   - [Swap Adjacent Bits](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s/SwapAdjacentBits/Program.cs)
+   - [Different Rightmost Bit](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s/DifferentRightmostBit/Program.cs)
+   - [Equal Pair of Bits](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/03.%20Corner%20of%200s%20and%201s/EqualPairOfBits/Program.cs)
+   
 
 ## [04. Loop Tunnel](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/04.%20Loop%20Tunnel)
+   - [Least Factorial](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/04.%20Loop%20Tunnel/LeastFactorial/Program.cs)
+   - [Count Sum of Two Representations 2](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/04.%20Loop%20Tunnel/CountSumOfTwoRepresentations2/Program.cs)
+   - [Magical Well](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/04.%20Loop%20Tunnel/MagicalWell/Program.cs)
+   - [Lineup](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/04.%20Loop%20Tunnel/Lineup/Program.cs)
+   - [Addition Without Carrying](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/04.%20Loop%20Tunnel/AdditionWithoutCarrying/Program.cs)
+   - [Apple Boxes](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/04.%20Loop%20Tunnel/AppleBoxes/Program.cs)
+   - [Increase Number Roundness](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/04.%20Loop%20Tunnel/IncreaseNumberRoundness/Program.cs)
+   - [Rounders](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/04.%20Loop%20Tunnel/Rounders/Program.cs)
+   - [Candles](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/04.%20Loop%20Tunnel/Candles/Program.cs)
+   - [Count Black Cells](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/04.%20Loop%20Tunnel/CountBlackCells/Program.cs)
 
 ## [05. List Forest Edge](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/05.%20List%20Forest%20Edge)
 
