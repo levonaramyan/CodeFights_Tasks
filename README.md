@@ -4,7 +4,7 @@ In this repository I gathered all of my solutions to the tasks and Challenges fr
 ## Th outline of the repository
 1. [Arcade](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade)
    -  [Intro (All Tasks)](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/Intro)
-   -  [The Core](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core)
+   -  [The Core (All Tasks)](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core)
    -  [Databases (All Tasks)](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/Databases)
    -  [Graphs](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/Graphs)
    -  [Python](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/Python)
