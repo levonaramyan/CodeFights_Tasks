@@ -44,6 +44,14 @@
    - [Count Black Cells](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/04.%20Loop%20Tunnel/CountBlackCells/Program.cs)
 
 ## [05. List Forest Edge](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/05.%20List%20Forest%20Edge)
+   - [Create Array](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/05.%20List%20Forest%20Edge/CreateArray/Program.cs)
+   - [Array Replace](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/05.%20List%20Forest%20Edge/ArrayReplace/Program.cs)
+   - [First Reverse Try](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/05.%20List%20Forest%20Edge/FirstReverseTry/Program.cs)
+   - [Concatenate Arrays](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/05.%20List%20Forest%20Edge/ConcatenateArrays/Program.cs)
+   - [Remove Array Part](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/05.%20List%20Forest%20Edge/RemoveArrayPart/Program.cs)
+   - [Is Smooth?](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/05.%20List%20Forest%20Edge/IsSmooth/Program.cs)
+   - [Replace Middle](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/05.%20List%20Forest%20Edge/ReplaceMiddle/Program.cs)
+   - [Make Array Consecutive 2](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/05.%20List%20Forest%20Edge/MakeArrayConsecutive2/Program.cs)
 
 ## [06. Labyrinth of Nested Loops](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/06.%20Labyrinth%20of%20Nested%20Loops)
 
