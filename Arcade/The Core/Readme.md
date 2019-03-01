@@ -88,3 +88,11 @@
 ## [18. Secret Archives](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/18.%20Secret%20Archives)
 
 ## [19. Cliffs Of Pain](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/19.%20Cliffs%20Of%20Pain)
+   - [Pipes Game](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/19.%20Cliffs%20Of%20Pain/PipesGame/Program.cs)
+   - [Game 2048](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/19.%20Cliffs%20Of%20Pain/Game2048/Program.cs)
+   - [Snake Game](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/19.%20Cliffs%20Of%20Pain/SnakeGame/Program.cs)
+   - [Tetris Game](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/19.%20Cliffs%20Of%20Pain/TetrisGame/Program.cs)
+   - [Pyraminx Puzzle](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/19.%20Cliffs%20Of%20Pain/PyraminxPuzzle/Program.cs)
+   - [Lines Game](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/19.%20Cliffs%20Of%20Pain/LinesGame/Program.cs)
+   - [Fractal](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/19.%20Cliffs%20Of%20Pain/Fractal/Program.cs)
+   - [Time ASCII Representation](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/19.%20Cliffs%20Of%20Pain/timeASCIIRepresentation/Program.cs)
