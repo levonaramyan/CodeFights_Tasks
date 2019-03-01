@@ -54,6 +54,14 @@
    - [Make Array Consecutive 2](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/05.%20List%20Forest%20Edge/MakeArrayConsecutive2/Program.cs)
 
 ## [06. Labyrinth of Nested Loops](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/06.%20Labyrinth%20of%20Nested%20Loops)
+   - [Is Power?](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/06.%20Labyrinth%20of%20Nested%20Loops/IsPower/Program.cs)
+   - [Is Sum of Consecutive 2](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/06.%20Labyrinth%20of%20Nested%20Loops/IsSumOfConsecutive2/Program.cs)
+   - [Sqaure Digits Sequence](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/06.%20Labyrinth%20of%20Nested%20Loops/SquareDigitsSequence/Program.cs)
+   - [Pages Numbering With Ink](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/06.%20Labyrinth%20of%20Nested%20Loops/PagesNumberingWithInk/Program.cs)
+   - [Comfortable Numbers](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/06.%20Labyrinth%20of%20Nested%20Loops/ComfortableNumbers/Program.cs)
+   - [Weak Numbers](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/06.%20Labyrinth%20of%20Nested%20Loops/WeakNumbers/Program.cs)
+   - [Rectangle Rotation](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/06.%20Labyrinth%20of%20Nested%20Loops/RectangleRotation/Program.cs)
+   - [Crossword Formation](https://github.com/levonaramyan/CodeFights_Tasks/blob/master/Arcade/The%20Core/06.%20Labyrinth%20of%20Nested%20Loops/CrosswordFormation/Program.cs)
 
 ## [07. Book Market](https://github.com/levonaramyan/CodeFights_Tasks/tree/master/Arcade/The%20Core/07.%20Book%20Market)
 
